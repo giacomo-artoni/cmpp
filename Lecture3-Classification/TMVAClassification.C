@@ -202,7 +202,7 @@ void TMVAClassification( TString myMethodList = "" )
 
    // Read training and test data
    // (it is also possible to use ASCII format as input -> see TMVA Users Guide)
-   TString fname = "./mbdataset.root";
+   TString fname = "../Datasets/mbdataset.root";
    
    TFile *input = TFile::Open( fname );
    
