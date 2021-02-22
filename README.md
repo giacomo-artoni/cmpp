@@ -1,7 +1,7 @@
 # Computation Methods for Particle Physicists
 Notebooks and examples for Computational Methods in Particle Physics
 
-These are the notebooks that go along with a series of lectures initially developed by Matthew Bass to introduce Particle Physicists to computational methods they will likely find useful in their research careers. This is a an updated version for the 2019 lectures.
+These are the notebooks that go along with a series of lectures initially developed by Matthew Bass to introduce Particle Physicists to computational methods they will likely find useful in their research careers. This is a an updated version for the 2021 lectures.
 
 There are four lectures in total, each one has a dedicated folder where the lecture slides and the associated notebooks can be found:
 
